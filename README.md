@@ -4,23 +4,23 @@
 
 ### Protocols
 
-- HTTP/HTTPS: API call
-- gRPC: API call
-- graphQL: API call
-- SOAP: API call
-- Kafka: Produce/consume
-- RabbitMQ: Produce/consume
+- HTTP/HTTPS: API call (Desktop)
+- gRPC: API call (Desktop)
+- graphQL: API call (Desktop)
+- SOAP: API call (Desktop)
+- Kafka: Produce/consume (Desktop)
+- RabbitMQ: Produce/consume (Desktop)
 
 ### Test
 
-- Test builder
-- Test group
-- Export for automation later
+- Test builder (Desktop)
+- Test groups  (Desktop)
+- Export for automation later (Desktop)
 
 ### Share
 
 - Remote Sharing / LAN sharing / Bluetooth Sharing / P2P Sharing
-- Remote Sync / LAN sync / Bluetoorh Sync / P2P Sync
+- Remote Sync / LAN Sync / Bluetooth Sync / P2P Sync
 - Export as files
 
 ### Document
@@ -28,7 +28,7 @@
 - LAN Serve
 - Remote Publish
 
-### Mornitoring
+### Monitoring
 
 - Status Page Builder
 - Status Page Serve
